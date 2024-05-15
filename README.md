@@ -1,5 +1,5 @@
 # Discription
-   1.Filter data from Excel Based on Population and literacy rate
+   1.Filter data from Excel Based on Population and literacy rate(Census 2011 Data)
 # Step 
    1.Import Excel in Data base
    2.Creat Table Use Hibernate(use Jdbc for Fetch the Data from DB)
